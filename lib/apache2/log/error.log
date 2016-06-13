@@ -1,0 +1,3 @@
+[Mon Jun 13 05:37:13.485518 2016] [mpm_prefork:notice] [pid 2938] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.17 configured -- resuming normal operations
+[Mon Jun 13 05:37:13.485571 2016] [core:notice] [pid 2938] AH00094: Command line: 'apache2'
+[Mon Jun 13 05:37:31.602905 2016] [core:info] [pid 2961] [client 10.240.0.33:52444] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://gitlessun-senkotakeshi.c9users.io/takeshisenko.github.io/index.html

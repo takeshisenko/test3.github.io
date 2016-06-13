@@ -1,0 +1,13 @@
+[user]
+    name = senko 
+    email = tsenko@netprotections.co.jp
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current

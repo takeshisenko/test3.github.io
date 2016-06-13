@@ -1,0 +1,2 @@
+10.240.0.211 - - [13/Jun/2016:05:37:30 +0000] "GET /takeshisenko.github.io/index.html HTTP/1.1" 200 720 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36"
+10.240.0.33 - - [13/Jun/2016:05:37:31 +0000] "GET /favicon.ico HTTP/1.1" 404 524 "https://gitlessun-senkotakeshi.c9users.io/takeshisenko.github.io/index.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36"
